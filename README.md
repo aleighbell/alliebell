@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README contains the necessary steps to get the application up and running.
 
-Things you may want to cover:
+* Rails version 5.0.0.1
 
-* Ruby version
+* Database = Postgres
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+* Database initialization = ensure you see your elephant! Otherwise inilialize posgres.
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (photography rates, booking calendar and availability, ability to request a quote)
 
-* Deployment instructions
+* read a blog, listen to podcasts, view portfolio, and view tech reviews on white pages articles
+
+* Deployment instructions - will eventually be deployed through godaddy
 
 * ...
